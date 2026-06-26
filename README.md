@@ -1,2 +1,2 @@
 Exam timetable creator
-https://incendiohawk.github.io
+https://leonhard-euler-2718.github.io
